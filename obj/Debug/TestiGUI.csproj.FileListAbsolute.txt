@@ -1,0 +1,10 @@
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\bin\Debug\TestiGUI.exe.config
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\bin\Debug\TestiGUI.exe
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\bin\Debug\TestiGUI.pdb
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.csprojAssemblyReference.cache
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.Form1.resources
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.Properties.Resources.resources
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.csproj.GenerateResource.cache
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.csproj.CoreCompileInputs.cache
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.exe
+C:\Users\eetus\Opinnot\vsprojektit\TestiGUI\obj\Debug\TestiGUI.pdb
